@@ -250,7 +250,7 @@ font-weight: 700;
     font-size: 0.9rem
 }
 
-/* projects */
+/* projects 
 .projects {
     height: 70vh;
     padding-top: 30px;
@@ -304,6 +304,7 @@ font-weight: 700;
 .projects__navbar-active {
     color: #00F260;
 }
+*/
 
 @media (max-width: 600px) {
     .app__main-content {

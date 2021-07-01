@@ -32,9 +32,14 @@ const About = () => {
             animate="visible"
             exit="exit"
         >
-            <h6 className="about__intro">
-                I describe myself as someone who's persistant, a quick learner and loves problem solving by using simple and scalable solutions.
-            </h6>
+            <div>
+                <h6 className="about__intro">
+                    I describe myself as someone who's persistant, a quick learner and loves problem solving by using simple and scalable solutions.
+                </h6>
+            </div>
+            <div>
+                <h6 className="xyz">STUDENT | DEVELOPER | LEARNER</h6>
+            </div>
             <div className="container about__container">
                 <h6 className="about__heading">What I offer</h6>
                 <div className="row">

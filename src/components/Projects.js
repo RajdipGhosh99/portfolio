@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import data_projects from './data/projects_data'
-import ProjectCard from './ProjectCard';
-import { motion } from 'framer-motion'
+import React from 'react';
+// import data_projects from './data/projects_data'
+// import ProjectCard from './ProjectCard';
+// import { motion } from 'framer-motion'
 // const Projects = () => {
 //     const [projects, setProjects] = useState(data_projects)
 //     const [active, setActive] = useState('All')
@@ -69,7 +69,9 @@ import { motion } from 'framer-motion'
 // };
 const Projects =()=>{
     return(<>
-    <h5> Uploading.... </h5>
+    <div>
+            <h5> Uploading.... </h5>
+    </div>
     </>
     );
 }

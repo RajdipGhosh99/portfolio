@@ -21,4 +21,10 @@
     font-weight: 700;
     color: #354358;
     margin-left: 10px;
+}h6.xyz{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+    font-weight: 800;
+    color: rgb(201, 201, 201);
 }

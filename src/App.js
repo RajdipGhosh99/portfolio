@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import { Route, Redirect, Switch, useLocation } from 'react-router-dom';
 import About from './components/about/About';
 import Resume from './components/Resume';
-import Projects from './components/Projects';
 import { AnimatePresence } from 'framer-motion'
 import "./app.css";
 function App() {
@@ -31,9 +30,8 @@ function App() {
                 </Route>
                 <Route exact path="/">
                   <Resume />
-                </Route>
-                <Route path="/projects" component={Projects} />
-                <Route>
+                  </Route>
+                  <Route>
                   <Redirect to="/" />
                 </Route>
               </Switch>

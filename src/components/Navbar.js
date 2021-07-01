@@ -31,9 +31,6 @@ const Navbar = () =>{
                         <div className="nav-item">
                               <NavLink activeClassName="menu-active" className="nav-link" to="/about">About</NavLink>
                         </div>
-                        <div className="nav-item">
-                              <NavLink activeClassName="menu-active" className="nav-link" to="/projects">projects</NavLink>
-                        </div>
         </motion.div>
 
     </>
