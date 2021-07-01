@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.807939ac.chunk.css",
+    "main.js": "/static/js/main.21071848.chunk.js",
+    "main.js.map": "/static/js/main.21071848.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.edc01db0.chunk.js": "/static/js/2.edc01db0.chunk.js",
+    "static/js/2.edc01db0.chunk.js.map": "/static/js/2.edc01db0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.807939ac.chunk.css.map": "/static/css/main.807939ac.chunk.css.map",
+    "static/js/2.edc01db0.chunk.js.LICENSE.txt": "/static/js/2.edc01db0.chunk.js.LICENSE.txt",
+    "static/media/algo.2f18a3f1.svg": "/static/media/algo.2f18a3f1.svg",
+    "static/media/computer.1ad27275.svg": "/static/media/computer.1ad27275.svg",
+    "static/media/github.0ade81e0.svg": "/static/media/github.0ade81e0.svg",
+    "static/media/pin.ecfd58de.svg": "/static/media/pin.ecfd58de.svg",
+    "static/media/puzzle.3c474bd9.svg": "/static/media/puzzle.3c474bd9.svg",
+    "static/media/react.2f7c9efd.svg": "/static/media/react.2f7c9efd.svg",
+    "static/media/resume.1a721233.pdf": "/static/media/resume.1a721233.pdf",
+    "static/media/tie.9889c907.svg": "/static/media/tie.9889c907.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/js/2.edc01db0.chunk.js",
+    "static/css/main.807939ac.chunk.css",
+    "static/js/main.21071848.chunk.js"
+  ]
+}
