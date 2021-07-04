@@ -2,7 +2,7 @@ import React from 'react'
 import github from '../assets/icons/github.svg'
 import pin from '../assets/icons/pin.svg'
 import tie from '../assets/icons/tie.svg'
-import resume from '../assets/resume.pdf'
+import resume from '../assets/Rajdip_Ghosh.pdf'
 import { motion } from 'framer-motion'
 
 const Sidebar = () => {
