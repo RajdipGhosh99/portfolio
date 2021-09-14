@@ -75,7 +75,7 @@ const Resume = () => {
                         <p className="resume-card__name">
                             TCS (2020)
                         </p>
-                        <p className="resume-card__details">I work as a intern in TCS and also completed some projects on testing</p>
+                        <p className="resume-card__details"></p>
                     </div>
                 </div> */}
             </div>

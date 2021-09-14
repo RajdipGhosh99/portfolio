@@ -14,7 +14,7 @@ const languages = [
     {
         icon: react,
         name: 'Java',
-        level: '25'
+        level: '30'
     },
     {
         icon: react,
@@ -62,7 +62,7 @@ const tools = [
     {
         icon: react,
         name: 'Paint3D',
-        level: '30'
+        level: '50'
     },
     {
         icon: react,
